@@ -32,7 +32,7 @@ loginapp is a simple login web application created with the use of Spring Boot f
    ```bash
    mvn spring-boot:run
 3. Open a web browser and go to: http://localhost:8080/login
-4. Register a new user or log in with existing credentials.
+4. Log in with existing credentials.
 
 ## Configuration
 * The application's database configuration is defined in src/main/resources/application.properties.
